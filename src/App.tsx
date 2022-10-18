@@ -15,9 +15,9 @@ export const App: React.FC = () => {
           <SideCart />
           <Navbar />
           <Routes>
-            <Route path="/" element={<Home />}></Route>
-            <Route path="/about" element={<About />}></Route>
-            <Route path="/store" element={<Store />}></Route>
+            <Route path="/cart/" element={<Home />}></Route>
+            <Route path="/cart/about" element={<About />}></Route>
+            <Route path="/cart/store" element={<Store />}></Route>
             <Route path="*" element={<h1>Page not found</h1>}></Route>
           </Routes>
         </Router>

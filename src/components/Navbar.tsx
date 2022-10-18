@@ -10,9 +10,9 @@ export const Navbar: React.FC = () => {
     <nav className="flex flex-row justify-between px-24 shadow-xl py-6 mb-6">
       <div>Logo</div>
       <ul className="flex gap-8 flex-row items-center">
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/store">Store</Link>
+        <Link to="/cart/">Home</Link>
+        <Link to="/cart/about">About</Link>
+        <Link to="/cart/store">Store</Link>
         <NotificationIcon
           IconElement={
             <i className={`fa-solid fa-cart-shopping ${iconStyles}`}></i>
