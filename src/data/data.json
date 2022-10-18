@@ -3,36 +3,36 @@
     "id": 1,
     "name": "Bread",
     "price": 10,
-    "url": "/imgs/bread.jpg"
+    "url": "/cart/imgs/bread.jpg"
   },
   {
     "id": 2,
     "name": "Butter",
     "price": 20,
-    "url": "/imgs/butter.jpg"
+    "url": "/cart/imgs/butter.jpg"
   },
   {
     "id": 3,
     "name": "Cheese",
     "price": 30,
-    "url": "/imgs/cheese.jpg"
+    "url": "/cart/imgs/cheese.jpg"
   },
   {
     "id": 4,
     "name": "Hot Dog",
     "price": 40,
-    "url": "/imgs/hotdog.jpg"
+    "url": "/cart/imgs/hotdog.jpg"
   },
   {
     "id": 5,
     "name": "Noodle",
     "price": 50,
-    "url": "/imgs/noodle.jpg"
+    "url": "/cart/imgs/noodle.jpg"
   },
   {
     "id": 6,
     "name": "Peanut",
     "price": 60,
-    "url": "/imgs/peanut.jpg"
+    "url": "/cart/imgs/peanut.jpg"
   }
 ]
